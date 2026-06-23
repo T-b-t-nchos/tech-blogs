@@ -1,13 +1,14 @@
 ---
 title: テスト!!
-private: false
 tags:
-  - Zenn
   - Qiita
-updated_at: '2026-06-23T22:10:37+09:00'
+  - Zenn
+private: false
+updated_at: '2026-06-23T22:13:06+09:00'
 id: 8ecd22c2866344942734
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # テスト
