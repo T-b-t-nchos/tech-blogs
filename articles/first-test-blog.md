@@ -1,8 +1,8 @@
 ---
 title: "テスト!!"
 emoji: "✨️"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: []
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: [Zenn, Quiita]
 published: true
 ---
 
