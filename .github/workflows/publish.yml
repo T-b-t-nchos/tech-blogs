@@ -28,3 +28,5 @@ jobs:
         uses: C-Naoki/zenn-qiita-sync@main
         with:
           qiita-token: ${{ secrets.QIITA_TOKEN }}
+          convert-commit-message: "bot(zenn-qiita-sync): convert Zenn articles to Qiita format"
+          qiitacli-commit-message: "bot(zenn-qiita-sync): updated by quiita-cli"
