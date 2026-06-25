@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "zenn-cli": "^0.5.2"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.8.0"
   }
 }
