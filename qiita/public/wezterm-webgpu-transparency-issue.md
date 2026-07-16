@@ -1,14 +1,17 @@
 ---
 title: NVIDIA GPU + WezTermでWebGPU透過が"出来なかった"話
-private: false
 tags:
-  - wezterm
-  - webgpu
-  - nvidia
-updated_at: '2026-07-16T08:20:44.034Z'
-id: null
+  - NVIDIA
+  - WebGPU
+  - Wezterm
+private: false
+updated_at: '2026-07-16T17:20:51+09:00'
+id: 385aedf996aa9edde829
 organization_url_name: null
 slide: false
+ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 
 ## ✨️ 結論
